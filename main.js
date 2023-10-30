@@ -1,4 +1,4 @@
-// npm-link-example/index.js
+// npm-link-example/main.js
 
 const packageA = require("package-a");
 const packageB = require("package-b");
